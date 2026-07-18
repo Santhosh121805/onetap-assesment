@@ -1,4 +1,4 @@
-# AI Analytics Assistant — OneTapp Consulting Assessment
+# AI Analytics Assistant — OneTapp  Assessment
 
 **Candidate:** Santhosh S  
 **College:** Reva University  
