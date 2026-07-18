@@ -1,0 +1,9 @@
+# Environment files
+.env
+
+# Auto-generated database files
+sales.db
+
+# Python caches
+__pycache__/
+*.pyc
